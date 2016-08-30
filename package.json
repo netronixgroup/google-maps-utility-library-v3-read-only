@@ -1,0 +1,19 @@
+{
+  "name": "google-maps-utility-library-v3-read-only",
+  "version": "1.0.0",
+  "description": "This is git clone of original http://google-maps-utility-library-v3.googlecode.com/svn/ repo. It's been a long time ago, when there was no google's account on github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netronixgroup/google-maps-utility-library-v3-read-only.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netronixgroup/google-maps-utility-library-v3-read-only/issues"
+  },
+  "homepage": "https://github.com/netronixgroup/google-maps-utility-library-v3-read-only#readme"
+}
